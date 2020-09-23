@@ -1,0 +1,16 @@
+[History]
+B0=CSScrollBox/frmMsg
+B1=CSScrollBox/frmMsg/Button_MouseMove
+B2=CSScrollBox/frmMsg/PrepareUI
+B3=CSScrollBox/TScrollBox/ScrollBox
+B4=CSScrollBox/frmMsg/Execute
+B5=CSScrollBox/TScrollBox
+B6=CSScrollBox/modApi32
+B7=CSScrollBox/frmMsg/ScrollDown
+B8=CSScrollBox/frmMsg/ScrollUp
+B9=CSScrollBox/modApi32/PlayWaveBytes
+B10=CSScrollBox/modApi32/PlayShortWav
+B11=CSScrollBox/modApi32/ShellDocument
+B12=CSScrollBox/frmMsg/Form_Load
+B13=CSScrollBox/frmMsg/tmrTimeOut_Timer
+B14=CSScrollBox/frmMsg/tmrScroll_Timer

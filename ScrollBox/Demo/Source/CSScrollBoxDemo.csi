@@ -1,0 +1,16 @@
+[History]
+B0=Project1/Form1/cmdShow_Click
+B1=Project1/Form1/cmdCopy_Click
+B2=Project1/Form1/Form_Load
+B3=Project1/Form1/GetText
+B4=Project1/Form1/AddItem
+B5=Project1/Form1/GetSound
+B6=Project1/Form1/GetBtnColor
+B7=Project1/Form1/GetColor
+B8=Project1/Form1
+B9=Project1/Form1/Command1_Click
+B10=Project1/Form1/cmdReadme_Click
+B11=Project1/Form1/GetFont
+B12=Project1/Form1/cmdRevisions_Click
+B13=Project1/Form1/OpenFile
+B14=Project1/Form1/cmdButton_Click
